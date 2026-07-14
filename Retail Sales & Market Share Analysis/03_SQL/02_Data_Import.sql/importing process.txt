@@ -1,9 +1,0 @@
-importing is done on sql developer by 
-
----import wizard -----
-
-
-
-which inserted all the data into the oracle database ...
-
-
